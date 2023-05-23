@@ -40,6 +40,7 @@
 
 
 
+
 // temp == yomg'ir 
 
 // 25 <= 40 issiq   25 >= 10 iliq   10 > 1 sovuq   1 < -20 qor
@@ -64,7 +65,6 @@
 
 
 
-
 // let temp = -10;
 
 // if (temp >= 30) {
@@ -84,5 +84,19 @@
 // }
 
 
+
+// if ==> agar
+// else ==> bo'lmasa
+
+
+
+
 // if(false){   }
 // else{  }
+
+
+
+// ternary ? :
+// switch case
+
+
