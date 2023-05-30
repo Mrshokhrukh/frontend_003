@@ -79,12 +79,12 @@
 
 
 
-let toggle = false
+    let toggle = false
 
-function bos() {
-    toggle ? toggle = false : toggle = true;
+    function bos() {
+        toggle ? toggle = false : toggle = true;
 
-    if(toggle) document.querySelector('div').classList.add('dark'); 
-     else document.querySelector('div').classList.remove('dark');
-}
+        if(toggle) document.querySelector('div').classList.add('dark'); 
+        else document.querySelector('div').classList.remove('dark');
+    }
 
