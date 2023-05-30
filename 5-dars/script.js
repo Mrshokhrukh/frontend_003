@@ -65,6 +65,21 @@
 //     return 'salom javascript ex ';
 // }                  
 
-// ===>  arrow function;
+// ==>  arrow function;
 
+
+
+
+
+//tasks
+
+// kalkulyator declaration
+// kalkulyator expression
+// kun tun rejimi
+
+
+
+// function bos() {
+//     document.querySelector('div').classList.toggle('dark');
+// }
 
