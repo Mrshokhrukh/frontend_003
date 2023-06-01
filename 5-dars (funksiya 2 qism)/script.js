@@ -79,12 +79,13 @@
 
 
 
-    let toggle = false
 
-    function bos() {
-        toggle ? toggle = false : toggle = true;
+    // let toggle = false
 
-        if(toggle) document.querySelector('div').classList.add('dark'); 
-        else document.querySelector('div').classList.remove('dark');
-    }
+    // function bos() {
+    //     toggle ? toggle = false : toggle = true;
+
+    //     if(toggle) document.querySelector('div').classList.add('dark'); 
+    //     else document.querySelector('div').classList.remove('dark');
+    // }
 
