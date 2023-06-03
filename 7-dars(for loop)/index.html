@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="./script.js" defer></script>
+    <link rel="stylesheet" href="./style.css" />
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+    <title>Document</title>
+  </head>
+  <!-- <style>
+    [value] {
+      width: 20px;
+      height: 20px;
+      font-size: 17px;
+      align-items: center;
+      text-align: center;
+      display: flex;
+      cursor: pointer;
+    }
+  </style> -->
+  <body>
+    <!-- <input type="text" id="num1" placeholder="birinchi qiymatni kiriting" />
+
+    <input type="text" value="+" id="plus" />
+    <input type="text" value="-" id="minus" />
+    <input type="text" value="*" id="kopaytirish" />
+    <input type="text" value="/" id="bolish" />
+
+    <input type="text" id="num2" placeholder="ikkinchi qiymatni kiriting" />
+
+    <button onclick="hisobla()">=</button>
+
+    <p>Natija:</p> -->
+
+    <div class="sidebar">
+      <h2>sidebar</h2>
+      <ion-icon
+        name="close-outline"
+        id="close"
+        onclick="closeSide()"
+      ></ion-icon>
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Section</li>
+        <li>Contact</li>
+      </ul>
+    </div>
+
+    <div class="icon">
+      <ion-icon name="menu-outline" onclick="openSide()"></ion-icon>
+    </div>
+  </body>
+</html>
