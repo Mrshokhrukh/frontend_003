@@ -1,0 +1,34 @@
+// h2 {
+//   padding: 150px 100px 0 0;
+//   font-size: 56px;
+//   font-weight: bold;
+//   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+// }
+
+// .color {
+//   position: fixed;
+//   width: 280px;
+//   height: 250px;
+//   top: 20%;
+//   left: 60%;
+//   border-radius: 70% 40% 20%;
+//   z-index: -10;
+//   background-color: rgb(3, 238, 93);
+//   filter: blur(200px);
+// }
+
+// .colorOne {
+//   @extend .color;
+// }
+// .colorTwo {
+//   @extend .color;
+//   left: 30%;
+//   top: 5%;
+//   background-color: royalblue;
+// }
+// .colorThree {
+//   @extend .color;
+//   left: 20%;
+//   top: 55%;
+//   background-color: crimson;
+// }
