@@ -1,5 +1,5 @@
-
 // Array  =>
+
 
 // ------------------------------ToString()--------------------------
 
@@ -67,6 +67,7 @@
 // ------------------------------UNSHIFT--------------------------
 
 
+
 // const cars = ['malibu', 'spark', 'matiz', 'tiko'];
 
 // cars.unshift('captiva') // unshift arrayning boshiga element qo'shadi
@@ -76,6 +77,7 @@
 
 
 // ------------------------------CONCAT--------------------------
+
 
 
 // const firstArr = ['apple', 'mango', 'kiwi'];
