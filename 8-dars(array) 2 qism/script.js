@@ -1,17 +1,20 @@
+// -----------------------------SPLICE----------------------------------
+
+// const array = ['lacetti', 'cobalt', 'matiz', 'nexia', 'spark', 'damas', 'gentra', 'inomarka', 'tiko'];
+
+// array.splice(1,2,'');
+
+// console.log(array);
 
 
 
-let counter = 0;
 
-function increase() {
-    counter += 1
-    document.querySelector('h2').innerText = counter
-}
-function decrease() {
-    counter -= 1
-    document.querySelector('h2').innerText = counter
-}
-function reset() {
-    counter = 0
-    document.querySelector('h2').innerText = counter
-}
+// ------------------------------------SLICE-----------------------------------
+
+// const array = ['lacetti', 'cobalt', 'matiz', 'nexia', 'spark', 'damas', 'gentra', 'inomarka', 'tiko'];
+
+// let newArray = array.slice(0, 2);
+
+// console.log(newArray);
+
+
