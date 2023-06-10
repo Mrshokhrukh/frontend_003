@@ -69,6 +69,7 @@
 // -----------------------------------------IndexOf-----------------------------------
 
 
+
 // const array = ['lacetti', 'cobalt', 'matiz', 'nexia', 'spark', 'damas', 'gentra', 'inomarka', 'spark', 'tiko', 'spark'];
 
 // console.log(array.indexOf('spark'));
