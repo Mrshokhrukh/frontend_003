@@ -19,8 +19,8 @@
 // let arr2 = [2, 3, 4, 8, 10];
 // arr2[3] = 5;
 
-// console.log(arr2);
 
+// console.log(arr2);
 
 
 // const arr = ['akobir', 'alijon', 'begzod', 'sardor', 'diyorbek'];
@@ -29,7 +29,9 @@
 
 // const newArr = arr.concat(array, numbers);
 
+
 // console.log(newArr);
+
 
 
 // const array = ['lacetti', 'cobalt', 'matiz', 'nexia', 'spark', 'damas', 'gentra', 'inomarka', 'tiko'];
@@ -43,8 +45,8 @@
 
 
 
-
 // ---------------------------------------------for loops-----------------------------------
+
 
 
 // for (let i = 0; i < array.length; i++) {
@@ -65,9 +67,8 @@
 
 
 
-
 // -----------------------------------------IndexOf-----------------------------------
-
+    
 
 
 // const array = ['lacetti', 'cobalt', 'matiz', 'nexia', 'spark', 'damas', 'gentra', 'inomarka', 'spark', 'tiko', 'spark'];
@@ -107,7 +108,6 @@
 // const search = () => {
 
 //     let value = document.querySelector('input').value;
-
 //     if (array.includes(value)) {
 //         document.querySelector('body').innerHTML += `<div class='div'> <h2>${array[array.indexOf(value)]}</h2> </div>`
 //     } else {
@@ -126,12 +126,12 @@
 // let tartiblangan = arr.sort();// parametrsiz sort alifbo shaklida tartiblaydi
 
 
-
-
 // const arr = [4, 5, 3, 7, 22, 9, 10, 1, 6]
+
 
 // arr.sort((a, b) => { return b - a })  // kattadan maydaga sort
 // arr.sort((a, b) => { return a - b })  // maydadan kattaga sort
+
 
 // console.log(arr);
 
